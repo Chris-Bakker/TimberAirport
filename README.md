@@ -1,4 +1,4 @@
-# Timber Airport: Parametric Design for a Circular Future
+# Timber Airport: Parametric Design
 
 This project is part of a design challenge to develop a temporary, sustainable airport near Rotterdam The Hague Airport.
 
